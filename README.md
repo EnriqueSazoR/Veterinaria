@@ -20,7 +20,7 @@ Frontend: HTML, CSS, Razor Views (con opción a usar Bootstrap para diseño)
 ✅ Gestión de mascotas asociadas a cada cliente
 ✅ Selección de sucursales para las citas
 
-#🚀 Objetivo del proyecto:
+# 🚀 Objetivo del proyecto:
 Este proyecto busca aplicar conceptos intermedios de ASP.NET Core, como MVC, autenticación con Identity, Entity Framework Core, y el patrón Repositorio, en un sistema realista de gestión de citas. Está diseñado para ser escalable, con áreas separadas para clientes y administradores, proyectos modulares (Datos, Modelos, Utilidades), y una base de datos optimizada para futuras expansiones.
 
-#📌 Estado: En desarrollo
+# 📌 Estado: En desarrollo
