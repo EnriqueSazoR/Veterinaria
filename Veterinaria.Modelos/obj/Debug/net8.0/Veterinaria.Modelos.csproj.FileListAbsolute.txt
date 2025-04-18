@@ -1,0 +1,13 @@
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\bin\Debug\net8.0\Veterinaria.Modelos.deps.json
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\bin\Debug\net8.0\Veterinaria.Modelos.dll
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\bin\Debug\net8.0\Veterinaria.Modelos.pdb
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\obj\Debug\net8.0\Veterinaria.Modelos.csproj.AssemblyReference.cache
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\obj\Debug\net8.0\Veterinaria.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\obj\Debug\net8.0\Veterinaria.Modelos.AssemblyInfoInputs.cache
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\obj\Debug\net8.0\Veterinaria.Modelos.AssemblyInfo.cs
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\obj\Debug\net8.0\Veterinaria.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\obj\Debug\net8.0\Veterinaria.Modelos.sourcelink.json
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\obj\Debug\net8.0\Veterinaria.Modelos.dll
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\obj\Debug\net8.0\refint\Veterinaria.Modelos.dll
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\obj\Debug\net8.0\Veterinaria.Modelos.pdb
+C:\Users\Luis Sazo\Desktop\Veterinaria\Veterinaria.Modelos\obj\Debug\net8.0\ref\Veterinaria.Modelos.dll

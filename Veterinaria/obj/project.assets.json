@@ -2932,8 +2932,10 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.11",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.11",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
           "Veterinaria.Modelos": "1.0.0",
           "Veterinaria.Utilidades": "1.0.0"
         },
@@ -2947,6 +2949,9 @@
       "Veterinaria.Modelos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Stores": "8.0.11"
+        },
         "compile": {
           "bin/placeholder/Veterinaria.Modelos.dll": {}
         },

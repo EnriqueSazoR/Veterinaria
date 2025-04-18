@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93ED2163-698A-4F03-8073-1121908D7EC4}|Veterinaria\\Veterinaria.csproj|c:\\users\\luis sazo\\desktop\\veterinaria\\veterinaria\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93ED2163-698A-4F03-8073-1121908D7EC4}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FF46B66-E7AC-45D8-A47F-7DFBC30FD74E}|Veterinaria.AccesoDatos\\Veterinaria.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\veterinaria\\veterinaria.accesodatos\\migrations\\20250418194917_fkidmascotatablacitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF46B66-E7AC-45D8-A47F-7DFBC30FD74E}|Veterinaria.AccesoDatos\\Veterinaria.AccesoDatos.csproj|solutionrelative:veterinaria.accesodatos\\migrations\\20250418194917_fkidmascotatablacitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF46B66-E7AC-45D8-A47F-7DFBC30FD74E}|Veterinaria.AccesoDatos\\Veterinaria.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\veterinaria\\veterinaria.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF46B66-E7AC-45D8-A47F-7DFBC30FD74E}|Veterinaria.AccesoDatos\\Veterinaria.AccesoDatos.csproj|solutionrelative:veterinaria.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.AccesoDatos\\Migrations\\20250418194300_FKIdMascotaTablaCitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Veterinaria.AccesoDatos\\Migrations\\20250418194300_FKIdMascotaTablaCitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D181275-934D-49D2-941F-499F2853EC18}|Veterinaria.Modelos\\Veterinaria.Modelos.csproj|c:\\users\\luis sazo\\desktop\\veterinaria\\veterinaria.modelos\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D181275-934D-49D2-941F-499F2853EC18}|Veterinaria.Modelos\\Veterinaria.Modelos.csproj|solutionrelative:veterinaria.modelos\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D181275-934D-49D2-941F-499F2853EC18}|Veterinaria.Modelos\\Veterinaria.Modelos.csproj|c:\\users\\luis sazo\\desktop\\veterinaria\\veterinaria.modelos\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D181275-934D-49D2-941F-499F2853EC18}|Veterinaria.Modelos\\Veterinaria.Modelos.csproj|solutionrelative:veterinaria.modelos\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF46B66-E7AC-45D8-A47F-7DFBC30FD74E}|Veterinaria.AccesoDatos\\Veterinaria.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\veterinaria\\veterinaria.accesodatos\\migrations\\20250418192413_modeloveterinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF46B66-E7AC-45D8-A47F-7DFBC30FD74E}|Veterinaria.AccesoDatos\\Veterinaria.AccesoDatos.csproj|solutionrelative:veterinaria.accesodatos\\migrations\\20250418192413_modeloveterinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D181275-934D-49D2-941F-499F2853EC18}|Veterinaria.Modelos\\Veterinaria.Modelos.csproj|c:\\users\\luis sazo\\desktop\\veterinaria\\veterinaria.modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D181275-934D-49D2-941F-499F2853EC18}|Veterinaria.Modelos\\Veterinaria.Modelos.csproj|solutionrelative:veterinaria.modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93ED2163-698A-4F03-8073-1121908D7EC4}|Veterinaria\\Veterinaria.csproj|c:\\users\\luis sazo\\desktop\\veterinaria\\veterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93ED2163-698A-4F03-8073-1121908D7EC4}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D181275-934D-49D2-941F-499F2853EC18}|Veterinaria.Modelos\\Veterinaria.Modelos.csproj|c:\\users\\luis sazo\\desktop\\veterinaria\\veterinaria.modelos\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D181275-934D-49D2-941F-499F2853EC18}|Veterinaria.Modelos\\Veterinaria.Modelos.csproj|solutionrelative:veterinaria.modelos\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +51,117 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Veterinaria\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Veterinaria\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Title": "20250418194917_FKIdMascotaTablaCitas.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.AccesoDatos\\Migrations\\20250418194917_FKIdMascotaTablaCitas.cs",
+              "RelativeDocumentMoniker": "Veterinaria.AccesoDatos\\Migrations\\20250418194917_FKIdMascotaTablaCitas.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.AccesoDatos\\Migrations\\20250418194917_FKIdMascotaTablaCitas.cs",
+              "RelativeToolTip": "Veterinaria.AccesoDatos\\Migrations\\20250418194917_FKIdMascotaTablaCitas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T23:58:13.026Z",
+              "WhenOpened": "2025-04-18T19:49:19.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "20250418194300_FKIdMascotaTablaCitas.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.AccesoDatos\\Migrations\\20250418194300_FKIdMascotaTablaCitas.cs",
+              "RelativeDocumentMoniker": "Veterinaria.AccesoDatos\\Migrations\\20250418194300_FKIdMascotaTablaCitas.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.AccesoDatos\\Migrations\\20250418194300_FKIdMascotaTablaCitas.cs",
+              "RelativeToolTip": "Veterinaria.AccesoDatos\\Migrations\\20250418194300_FKIdMascotaTablaCitas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:43:01.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250418192413_ModeloVeterinaria.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.AccesoDatos\\Migrations\\20250418192413_ModeloVeterinaria.cs",
+              "RelativeDocumentMoniker": "Veterinaria.AccesoDatos\\Migrations\\20250418192413_ModeloVeterinaria.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.AccesoDatos\\Migrations\\20250418192413_ModeloVeterinaria.cs",
+              "RelativeToolTip": "Veterinaria.AccesoDatos\\Migrations\\20250418192413_ModeloVeterinaria.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:24:14.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria\\Program.cs",
               "RelativeDocumentMoniker": "Veterinaria\\Program.cs",
               "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria\\Program.cs",
               "RelativeToolTip": "Veterinaria\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T23:56:10.53Z",
+              "WhenOpened": "2025-04-18T19:23:29.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Veterinaria.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Veterinaria.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:50:50.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.Modelos\\Sucursal.cs",
+              "RelativeDocumentMoniker": "Veterinaria.Modelos\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.Modelos\\Sucursal.cs",
+              "RelativeToolTip": "Veterinaria.Modelos\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:49:58.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.Modelos\\Cita.cs",
+              "RelativeDocumentMoniker": "Veterinaria.Modelos\\Cita.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.Modelos\\Cita.cs",
+              "RelativeToolTip": "Veterinaria.Modelos\\Cita.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:49:00.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.Modelos\\Mascota.cs",
+              "RelativeDocumentMoniker": "Veterinaria.Modelos\\Mascota.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.Modelos\\Mascota.cs",
+              "RelativeToolTip": "Veterinaria.Modelos\\Mascota.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:48:29.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Veterinaria.Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\Veterinaria\\Veterinaria.Modelos\\Usuario.cs",
+              "RelativeToolTip": "Veterinaria.Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:32:37.567Z",
               "EditorCaption": ""
             }
           ]
